@@ -4323,12 +4323,8 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
                 anu = ` ∫ » *${ucapanWaktu}* « ✧\n⚠︎ *kak @${me.split('@')[0]}*\n♕︎ *Powered : @${ini_mark.split('@')[0]}*\n ∫ » *Creator : @${ownernya.split('@')[0]}*
 ╭──❍ *Menu Hits*
 │🏴‍☠️.Menfess ( To Many Use )
-│🏴‍☠️ .attp 
 │🏴‍☠️ .stiker
 │🏴‍☠️ .quotesanime
-│🏴‍☠️ .ytmp3 
-│🏴‍☠️ .ytmp4
-│🏴‍☠️ .ttp
 ╰────❍
 
 ╭──❍ *Owner Menu
