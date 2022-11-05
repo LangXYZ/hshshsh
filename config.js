@@ -51,7 +51,7 @@ global.mess = {
 // Limit
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 100
 }
 
 // Fake
@@ -59,14 +59,14 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygit = 'https://github.com/LangXYZ'
+global.myyt = 'https://youtube.com/c/GilangYT'
+global.myytv = 'https://youtu.be/FAsL-Jyhedhdh4qLc'
+global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU5hshs58"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
+global.botname = 'ZeroTwoBot'
+global.akulaku = 'Bot By Lang'
 global.ytname = 'GILANG YT' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
