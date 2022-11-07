@@ -2429,7 +2429,7 @@ break
 	    break
 	case 'menfes': case 'menfess': {
 		        if (m.isGroup) throw ('fitur tidak dapat digunakan di grup')
-            	if (!text) throw `Contoh  : ${prefix + command} 6282xxxxx|nama samaran|pesan\n\nWajib Menggunakan |`
+            	if (!text) throw `Contoh  : ${prefix + command} 6282xxxxx|nama samaran|pesan\n\nWajib Menggunakan \n Dilarang Menggunakan Spasi Wajib 62838xx Tanpa +\nDilarang Memakai '-' 62838-xxxx\nWajib Menggunakan 62 Dilarang 08`
             var mon = args.join(' ')
             var m1 = mon.split("|")[0]
             var m2 = mon.split("|")[1]
@@ -3893,7 +3893,7 @@ let alfamart = `628111500959@s.whatsapp.net`
   naze.sendMessage(m.chat, buttonMessage, {quoted: fkontak})
             	}
  break
-            case 'simplemenu': case 'list': case 'help': {
+            case 'simplemusushenu': case 'hshshshlist': case 'help': {
             let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
             let ments = [ownernya, me, ini_mark]
@@ -4457,7 +4457,10 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
 │🏴‍☠️ .delttt
 │🏴‍☠️ .tictactoe
 │🏴‍☠️ .family100
-│🏴‍☠️ .tebak [option]
+│🏴‍☠️ .tebak gambar
+│🏴‍☠️ .tebak kata
+│🏴‍☠️ .tebak kalimat
+│🏴‍☠️ .tebak lontong
 │🏴‍☠️ .math [mode]
 │🏴‍☠️ .suitpvp [@tag]
 │🏴‍☠️ .tebakumur
